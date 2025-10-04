@@ -4,8 +4,6 @@
 ![React](https://img.shields.io/badge/React-18-61dafb)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Run-4285f4)
 
-## 🌐 Live Demo
-**Frontend**: [https://frontend-1025255142765.us-central1.run.app](https://frontend-1025255142765.us-central1.run.app)
 
 ## 🛠️ Tech Stack
 - **Backend**: Flask, Google Gemini AI, PyPDF2
